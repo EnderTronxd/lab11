@@ -11,7 +11,7 @@ class ColorPreview extends StatelessWidget {
       child: Container(
         width: 150,
         height: 150,
-        color: rgbProvider.currentColor, // Встановлює колір контейнера
+        color: rgbProvider.currentColor,
       ),
     );
   }
